@@ -177,6 +177,31 @@ print(f"✅ Cleaned data saved at: {file_path}")
 
 # In[ ]:
 
+#### Now we have cleaned the data, let's visualize it by asking this key questions
+
+How does crime vary by location?
+
+Crimes by WARD, DISTRICT, Neighborhood Cluster, Census Tract
+Crime hotspots using a map visualization
+What are the trends in crime over time?
+
+Crimes by year, month, and day of the week
+Crime distribution across different shifts (Midnight, Day, Evening)
+What are the most common crime types and methods?
+
+Crime distribution by OFFENSEGROUP (Violent vs. Property crimes)
+Most frequent offenses and methods used
+How long does it take to resolve crimes?
+
+Average crime resolution time
+Resolution time by crime type and location
+Which areas have the highest crime per capita?
+
+Crime rates adjusted by population (requires population dataset)
+Are there seasonal patterns in crime?
+
+Monthly or weather-based crime trends
+
 
 
 
